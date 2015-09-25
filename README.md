@@ -1,4 +1,4 @@
-# BigData_Handling
+# US Temperature Insights
 To generate analytics from a given large dataset of US temperature and weather
 The following codes are attached in this repository
 
